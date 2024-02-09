@@ -4,8 +4,8 @@
 
 ## Video 
 ---
-Gazebo Simulation -  https://youtu.be/WYXMsRsUZPU
-Baxter Robot - https://youtu.be/YA2HNHllvgA
+Gazebo Simulation -  [https://youtu.be/WYXMsRsUZPU](https://youtu.be/06NEze-Tg0k)
+Baxter Robot - [https://youtu.be/YA2HNHllvgA](https://youtu.be/YA2HNHllvgA)
 
 ## Project description
 ***
